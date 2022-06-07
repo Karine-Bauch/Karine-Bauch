@@ -8,7 +8,7 @@
   - a Moto-Rando Website with 4 others students of my school O'clock
   - a MotoGP API to share my passion about mortocycle
 
-- 🌱 __I’m currently learning__ HTML, CSS, JS, NODEJS, POSTGRES :heart_eyes: et many others !
+- 🌱 __I’m currently learning__ HTML, CSS, JS, NODEJS, POSTGRES :heart_eyes: and many others !
 
 - 💬 __Ask me about__ everything you want :zany_face:
 
