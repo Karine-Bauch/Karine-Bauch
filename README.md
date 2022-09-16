@@ -12,4 +12,4 @@
 
 - 💬 __Ask me about__ everything you want :zany_face:
 
-- 📫 __How to reach me :__ [See my GitHub Page](https://karine-bauch.github.io/)
+- 📫 __How to reach me :__ [See my PorteFolio](http://dev-kontrol.com)
