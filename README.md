@@ -1,15 +1,19 @@
-### Hi there 👋
+# Hi there 👋
 
 <!--
 **Karine-Bauch/Karine-Bauch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-- 🔭 __I’m currently working on :__
-  - a Moto-Rando Website with 4 others students of my school O'clock
-  - a MotoGP API to share my passion about mortocycle
+I haven't used GitHub for months, but you can find my contributions in [Froggit](https://lab.frogg.it/Karine-Bauch), based on GitLab.
 
-- 🌱 __I’m currently learning__ HTML, CSS, JS, NODEJS, POSTGRES :heart_eyes: and many others !
+Software Engineer specialized in backend, API and databases, experienced with modular monolith, micro-services and clean architecture. Lead CICD automation and supply-chain resilience.
 
-- 💬 __Ask me about__ everything you want :zany_face:
+## Skills:
 
-- 📫 __How to reach me :__ [See my PorteFolio](http://dev-kontrol.com)
+Python Back-end Developer, API, Databases, CI Pipelines.
+- Development of REST APIs and software following MAC and Clean architecture
+- Creation of modular back-end systems
+- Development and maintenance of CI/CD pipelines and automated testing
+
+Python · Backend · FastAPI · PostgreSQL · Pydantic · Pytest · SQLAlchemy · Alembic · MQTT · GitLab CI/CD
+
