@@ -4,7 +4,7 @@
 **Karine-Bauch/Karine-Bauch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-Github is noit my main tool for code save, but you can find my contributions in [Froggit](https://lab.frogg.it/Karine-Bauch), based on GitLab.
+Github is not my main tool for code save, but you can find my contributions in [Froggit](https://lab.frogg.it/Karine-Bauch), based on GitLab.
 
 Software Engineer specialized in backend, API and databases, experienced with modular monolith, micro-services and clean architecture. Lead CICD automation and supply-chain resilience.
 
