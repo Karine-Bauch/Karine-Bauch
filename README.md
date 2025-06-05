@@ -6,14 +6,12 @@
 
 Github is not my main tool for code save, but you can find my contributions in [Froggit](https://lab.frogg.it/Karine-Bauch), based on GitLab.
 
-Software Engineer specialized in backend, API and databases, experienced with modular monolith, micro-services and clean architecture. Lead CICD automation and supply-chain resilience.
+Software engineer specializing in Python since 2022, I work on back-end and DevOps projects across various sectors, including energy, software, education, and cybersecurity.
+I also deliver one-on-one training sessions for professional training organizations.
 
-## Skills:
+I support open-source by sponsoring projects such as FastAPI, SQLAlchemy, and Pytest, and I regularly contribute to the GitLab Swepy Knowledge Base as well as open-source projects like ZeroPython and a CI/CD components library.
 
-Python Back-end Developer, API, Databases, CI Pipelines.
-- Development of REST APIs and software following MAC and Clean architecture
-- Creation of modular back-end systems
-- Development and maintenance of CI/CD pipelines and automated testing
-
-Python · Backend · FastAPI · PostgreSQL · Pydantic · Pytest · SQLAlchemy · Alembic · MQTT · GitLab CI/CD
+Skills :
+Python · Backend · Clean, Hex, MACH Architecture · GitLab CI · FastAPI · PostgreSQL · Pytest ·
+SQLAlchemy · Pydantic
 
